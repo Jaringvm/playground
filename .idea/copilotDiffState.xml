@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="/.gitmodules (snapshot).gitmodules">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="/.gitmodules (snapshot).gitmodules" />
+              <option name="originalContent" value="[submodule &quot;backend&quot;]&#10;&#9;path = backend&#10;&#9;url = ./playground/backend&#10;[submodule &quot;frontend&quot;]&#10;&#9;path = frontend&#10;&#9;url = ./playground/frontend&#10;" />
+              <option name="updatedContent" value="[submodule &quot;backend&quot;]&#10;&#9;path = backend&#10;&#9;url = https://github.com/Jaringvm/backend&#10;[submodule &quot;frontend&quot;]&#10;&#9;path = frontend&#10;&#9;url = https://github.com/Jaringvm/frontend&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
